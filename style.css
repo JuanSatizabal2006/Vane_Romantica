@@ -52,7 +52,7 @@ header h1{
     margin: 20px;
     padding: 10px;
     text-align: center;
-    background-image: url(../imagenes/fondo_regalo.png);
+    background-image: url(fondo_regalo.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
